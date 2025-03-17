@@ -4,7 +4,7 @@ from psycopg2.extras import DictCursor
 hostname = 'localhost'
 database = 'employers'
 username = 'postgres'
-pwd = 'Harika@1998' 
+pwd = '' 
 port_id = 5432
 conn = None
 #cur = None
